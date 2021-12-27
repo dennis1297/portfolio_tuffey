@@ -20,7 +20,7 @@ const About = () => {
           I want to make things that make a Difference.
         </p>
         <p className="a-desc">
-        Im a graduate Student from Vels University of Chennai graduating in June 2020. I was exhausted and pissed off working for Corporate Scammers.... as bondslave was'nt my cup of Tea, so here i am with my own company. Im excellent in working as a MERN stack Devoloper. Most importantly i'm not a wimp who believes in Word Press.
+        Im a graduate Student from Vels University of Chennai graduating in June 2020. When I discovered Web Devolopment in college, I realized it would be the perfect fit. I could use my creative side to design and my logical side to code. As a bonus, being both designer and developer allows me to make sure no detail is lost in translation.Im excellent in working as a MERN stack Devoloper.
         </p>
       </div>
     </div>
